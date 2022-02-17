@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="currencyName">Название валюты</string>
+    <string name="enterTheAmount">Введите сумму для конвертации:</string>
+    <string name="value">Значение</string>
+    <string name="select_currency">Выберите валюту:</string>
+    <string name="convert_to">Конвертировать в:</string>
+    <string name="resultTitle">Результат:</string>
+    <string name="result">Результат</string>
+    <string name="code">Код</string>
+</resources>

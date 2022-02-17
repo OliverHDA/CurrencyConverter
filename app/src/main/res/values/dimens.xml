@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="currency_text_size">16sp</dimen>
+    <dimen name="standard_margin">24dp</dimen>
+    <dimen name="standard_padding">24dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="card_height">60dp</dimen>
+    <dimen name="result_text_size">24sp</dimen>
+    <dimen name="dialog_fragment_width">300dp</dimen>
+    <dimen name="dialog_fragment_heigth">500dp</dimen>
+    <dimen name="select_title_text_size">20sp</dimen>
+</resources>
